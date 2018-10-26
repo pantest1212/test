@@ -1,0 +1,12 @@
+WEB
+1
+https://www.shufflepoint.com/feed/bq2vis.aspx?tqx=out:html;source:sqlserver&key=["key","Enter access key:"]&tq=["query","Enter query"]
+
+Selection=EntirePage
+Formatting=RTF
+PreFormattedTextToColumns=True
+ConsecutiveDelimitersAsOne=True
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=False
+
